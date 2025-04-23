@@ -1,0 +1,36 @@
+/* Set the font across the entire page */
+body {
+  font-family: 'Verdana', sans-serif;
+  color: #333333;
+}
+
+/* Style for the header div */
+.header {
+  background-color: #4b8bbe;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  border-bottom: 5px solid #306998;
+}
+
+/* Style for sections (used 3 times = 3 divs) */
+.section {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  border: 2px solid #e0e0e0;
+}
+
+/* Custom style for the dog image */
+.dog-img {
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  border: 3px solid #dddddd;
+}
+
+/* Link styling (anchor) */
+a {
+  color: #2c7a7b;
+  text-decoration: none;
+  font-weight: bold;
+}
